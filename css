@@ -23,21 +23,8 @@
     font-size: 30px;
 }
 
-.dvv1 {
-    height: 100%;
-}
-
-.dvv2 {
-    height: 100%;
-}
-
-.btt {
+.button {
     padding: 10px;
     margin-bottom: 10px;
     height: 70px;
-}
-
-.dvbot {
-    display: flex;
-    flex-direction: row;
 }
